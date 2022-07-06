@@ -1,0 +1,397 @@
+
+div{
+background-color: #d4d6c8
+
+} 
+
+.frame-1 {
+  
+  padding: 35px 2px 4px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo-hookah {
+  width: 125px;
+  height: 73px;
+  margin-bottom: 12px;
+  margin-right: 1%;
+}
+
+.relative-wrapper-four {
+  position: relative;
+}
+.frame-8 {
+  width: 100.42%;
+  height: 5.49%;
+
+  position: absolute;
+  right: -2px;
+  bottom: -4px;
+}
+.flex-wrapper-one {
+ 
+  padding: 80px 49px 10px 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.relative-wrapper-three {
+  margin-bottom: 170px;
+  margin-left: 7px;
+  position: relative;
+}
+
+.frame-14 {
+  width: 385px;
+  height: 184px;
+  position: relative;
+}
+.frame-15 {
+  box-shadow: 0 4px 4px 0 var(--transparent-black);
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: calc(50% - 385px / 2);
+  top: calc(50% - 184px / 2);
+}
+.vas-vitae-hookah-482-najzatishnisha-kal-ja {
+  height: 184px;
+  width: 385px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-family: "Steppe";
+  font-size: 22px;
+  font-weight: 100;
+  line-height: 41px;
+  color: var(--black);
+  margin-top: -15%;
+  margin-left: 10%;
+}
+
+.kal-jan-png-1 {
+  width: 197px;
+  height: 197px;
+  position: absolute;
+  left: calc(50% - 197px / 2);
+  top: calc(50% - 197px / 2);
+  margin-top: 30%;
+  margin-left: 7%;
+}
+.same-tut-na-zatishnij-chill-zoni-z-priemn {
+  height: 214px;
+  width: 377px;
+  font-family: "Steppe";
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 33px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 17px;
+  margin-left: 8%;
+  text-shadow: 1px 1px 2px var(--transparent-black);
+  letter-spacing: 3.06px;
+}
+.chomu-same-hookah-482-vse-prosto-48 {
+  height: 172px;
+  width: 362px;
+  font-family: "Steppe";
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 41px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 26px;
+  margin-left: 11%;
+  text-shadow: 0 4px 4px var(--transparent-black-2);
+  letter-spacing: 3.78px;
+}
+.menju {
+  height: 70px;
+  width: 205px;
+  font-family: "Zodchiy";
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 79px;
+  color: var(--black);
+  display: flex;
+  text-align: center;
+  margin-bottom: 45px;
+  margin-left: 170px;
+}
+.light-series {
+  height: 40px;
+  width: 190px;
+  font-family: "Steppe";
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 47px;
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 43px;
+  margin-left: 141px;
+}
+.relative-wrapper-one {
+  margin-bottom: 45px;
+  position: relative;
+}
+.persik-lid-chornicja-miks-lav-grejpfrut-li {
+  height: 307px;
+  width: 384px;
+  font-family: "Steppe";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38px;
+  color: var(--black);
+  display: flex;
+  position: relative;
+  letter-spacing: 1.2px;
+}
+.num-260-260-260-260-260-260-260-260 {
+  height: 100.65%;
+  width: 118px;
+  display: flex;
+  text-align: right;
+  position: absolute;
+  right: -66px;
+  bottom: -2px;
+  font-family: "Steppe";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38px;
+  color: var(--black);
+}
+.num-260-260-260-260-260-260-260-260-emphasis-1 {
+  font-family: "Steppe";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38px;
+  color: var(--black);
+  letter-spacing: 2.28px;
+}
+.medium-series {
+  height: 40px;
+  width: 240px;
+  font-family: "Steppe";
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 47px;
+  color: var(--black);
+  display: flex;
+  text-align: center;
+  margin-bottom: 37px;
+  margin-left: 116px;
+}
+.relative-wrapper-two {
+  margin-bottom: 28px;
+  position: relative;
+}
+.solodka-mjata-vinograd-lid-dika-malina-ch {
+  height: 234px;
+  width: 384px;
+  display: flex;
+  position: relative;
+  font-family: "Steppe";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38px;
+  color: var(--black);
+}
+.solodka-mjata-vinograd-lid-dika-malina-ch-emphasis-1 {
+  font-family: "Steppe";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38px;
+  color: var(--black);
+  letter-spacing: 0.72px;
+}
+.num-280-280-280-280-280-280 {
+  height: 95.73%;
+  width: 118px;
+  font-family: "Steppe";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38px;
+  color: var(--black);
+  display: flex;
+  text-align: right;
+  position: absolute;
+  right: -66px;
+  top: 0;
+  letter-spacing: 2.16px;
+}
+.kontakti {
+  height: 70px;
+  width: 205px;
+  font-family: "Zodchiy";
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 79px;
+  color: var(--black);
+  display: flex;
+  text-align: center;
+  margin-bottom: 37px;
+  margin-left: 132px;
+}
+.m-kiiv-vul-revuc-kogo-2v-mjasnij-udar {
+  height: 150px;
+  width: 362px;
+  display: flex;
+  text-align: center;
+  margin-bottom: 29px;
+  margin-left: 38px;
+  font-family: "Steppe";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  color: var(--black);
+}
+.m-kiiv-vul-revuc-kogo-2v-mjasnij-udar-emphasis-1 {
+  font-family: "Steppe";
+  font-size: 12px;
+  font-weight: 100;
+  line-height: 15px;
+  color: var(--black);
+  letter-spacing: 1.14px;
+}
+.telegram-viber-facetime {
+  height: 53px;
+  width: 118px;
+  font-family: "Steppe";
+  font-size: 12px;
+  font-weight: 100;
+  line-height: 19px;
+  color: var(--black);
+  display: flex;
+  text-align: center;
+  margin-bottom: 37px;
+  margin-left: 45%;
+  letter-spacing: 0.54px;
+}
+.oplata {
+  height: 70px;
+  width: 205px;
+  font-family: "Zodchiy";
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 79px;
+  color: var(--black);
+  display: flex;
+  text-align: center;
+  margin-bottom: 37px;
+  margin-left: 150px;
+}
+.flex-wrapper-two {
+  margin-bottom: 28px;
+  padding: 0 0 0 29px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  height: 132px;
+  width: 378px;
+}
+.qrcode-1 {
+  width: 132px;
+  align-self: stretch;
+  object-fit: cover;
+}
+.flex-wrapper-three {
+  margin-bottom: 78px;
+  padding: 0 0 0 29px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  height: 24px;
+  width: 378px;
+}
+.mono {
+  width: 132px;
+  font-family: "Steppe";
+  font-size: 17px;
+  font-weight: 100;
+  line-height: 0;
+  color: var(--black);
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  letter-spacing: 2.64px;
+  margin-left: 9%;
+}
+.num-2022-all-rights-reserved-contacts-3806 {
+  height: 123px;
+  width: 341px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left: 85px;
+  font-family: "Steppe";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  color: var(--black);
+  margin-left: 25%;
+}
+.num-2022-all-rights-reserved-contacts-3806-emphasis-0 {
+  font-family: "Steppe";
+  font-size: 10px;
+  font-weight: 100;
+  line-height: 18px;
+  color: var(--black);
+  margin-left: 25%;
+}
+.num-2022-all-rights-reserved-contacts-3806-emphasis-1 {
+  font-family: "Steppe";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  color: var(--black);
+  margin-left: 25%;
+}
+.num-2022-all-rights-reserved-contacts-3806-emphasis-2 {
+  font-family: "Steppe";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  color: var(--black);
+  letter-spacing: 1.38px;
+  margin-left: 25%;
+}
+.num-2022-all-rights-reserved-contacts-3806-emphasis-4 {
+  font-family: "Steppe";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  color: var(--black);
+  letter-spacing: 10.02px;
+  margin-left: 25%;
+}
+.privat24 {
+  width: 132px;
+  font-family: "Steppe";
+  font-size: 17px;
+  font-weight: 100;
+  line-height: 0;
+  color: var(--black);
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  letter-spacing: 2.64px;
+  margin-right: -5%;
+}
+
+.map1 {
+
+margin-left: 5%;
+margin-bottom: 10%;
+}
